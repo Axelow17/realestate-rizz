@@ -5,7 +5,7 @@ import { getUserByFid } from "@/lib/neynar";
 import { getOrCreateHouseForUser, voteForHouse } from "@/lib/storage";
 import { buildWarpcastComposeUrl } from "@/lib/share";
 
-const BASE_URL = process.env.BASE_URL || "http://localhost:3000";
+const BASE_URL = process.env.BASE_URL || "https://realestate-rizz.vercel.app";
 
 export const dynamic = "force-dynamic";
 
