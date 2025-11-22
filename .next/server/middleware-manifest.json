@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "middleware": {},
+  "functions": {
+    "/og/house-card/route": {
+      "files": [
+        "server/server-reference-manifest.js",
+        "server/app/og/house-card/route_client-reference-manifest.js",
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/interception-route-rewrite-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/app/og/house-card/route.js"
+      ],
+      "name": "app/og/house-card/route",
+      "page": "/og/house-card/route",
+      "matchers": [
+        {
+          "regexp": "^/og/house\\-card$",
+          "originalSource": "/og/house-card"
+        }
+      ],
+      "wasm": [
+        {
+          "name": "wasm_77d9faebf7af9e421806970ce10a58e9d83116d7",
+          "filePath": "server/edge-chunks/wasm_77d9faebf7af9e421806970ce10a58e9d83116d7.wasm"
+        },
+        {
+          "name": "wasm_ef4866ecae192fd87727067cf2c0c0cf9fb8b020",
+          "filePath": "server/edge-chunks/wasm_ef4866ecae192fd87727067cf2c0c0cf9fb8b020.wasm"
+        }
+      ],
+      "assets": [
+        {
+          "name": "noto-sans-v27-latin-regular.5dda3fca77107598.ttf",
+          "filePath": "server/edge-chunks/asset_noto-sans-v27-latin-regular.5dda3fca77107598.ttf"
+        }
+      ],
+      "env": {
+        "__NEXT_BUILD_ID": "8guYwhWxk-wntsveI6Ze_",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "0MQJ3ua7y+dIPIq4PG0uuXN+4p4WXfNLHAq6yMGRK2Q=",
+        "__NEXT_PREVIEW_MODE_ID": "412d0c5773bf61d24cdae5ac8443a181",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "1c2ba3b8bb1d62548f02d9d6c0bd1a7cf953ef79f7a4df030911ddc431e05cdc",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "047266223f502bdff3b6dc023439ce110cf10aab0fc3f5b4b9195be1cbf94432"
+      }
+    }
+  },
+  "sortedMiddleware": []
+}

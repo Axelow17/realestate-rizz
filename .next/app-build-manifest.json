@@ -1,0 +1,67 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/_not-found/page-99fd94df910c934f.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/layout-6acdb36d89c9519b.js"
+    ],
+    "/api/house-image/route": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/api/house-image/route-fd5316469fc3fae7.js"
+    ],
+    "/api/leaderboard/route": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/api/leaderboard/route-8911fdc7d42899da.js"
+    ],
+    "/frame/route": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/frame/route-af7d48862e25213f.js"
+    ],
+    "/frame/vote/route": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/frame/vote/route-0719563a13406ab7.js"
+    ],
+    "/share/page": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/share/page-6e3fde604f421c2d.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/page-bd0ca136b45e63a2.js"
+    ],
+    "/og/house-card/route": [
+      "static/chunks/webpack-b5d81ab04c5b38dd.js",
+      "static/chunks/4bd1b696-6985518451956beb.js",
+      "static/chunks/215-c87099246f791b3a.js",
+      "static/chunks/main-app-5aeecb5173f2e414.js",
+      "static/chunks/app/og/house-card/route-33aa5d1e5370a90d.js"
+    ]
+  }
+}
