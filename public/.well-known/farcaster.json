@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "RealEstate Rizz",
+    "homeUrl": "https://realestate-rizz.vercel.app/mini",
+    "iconUrl": "https://realestate-rizz.vercel.app/icon.png",
+    "splashImageUrl": "https://realestate-rizz.vercel.app/og/house-card?fid=1",
+    "splashBackgroundColor": "#020617",
+    "subtitle": "What house matches your vibes?",
+    "description": "Turns your Farcaster profile into a chaotic onchain house: absurd price, vibes, and leaderboard.",
+    "tags": ["fun", "real-estate", "miniapp"]
+  }
+}
