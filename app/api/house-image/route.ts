@@ -17,7 +17,7 @@ export async function GET(req: NextRequest) {
     return new NextResponse("AI image unavailable", { status: 500 });
   }
 
-  return new NextResponse(buf as any, {
+  return new NextResponse(buf as any, { // eslint-disable-line @typescript-eslint/no-explicit-any
     status: 200,
     headers: {
       "Content-Type": "image/jpeg",
